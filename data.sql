@@ -34,4 +34,4 @@ INSERT INTO animals (
     escape_attempts,
     neutered,
     weight_kg )
-VALUES (4, 'Devimon', '2017-05-14', 5, true, 11);
+VALUES (4, 'Devimon', '2017-05-12', 5, true, 11);
