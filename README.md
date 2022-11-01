@@ -4,6 +4,8 @@
 
 > A relational database for a vet clinic.
 
+![drawSQL-export-2022-11-01_17_03 (1)](https://user-images.githubusercontent.com/106587342/199228567-b5952b28-be15-47e3-84fd-5cccf14ba420.png)
+
 ## Built with
 
 - PostgreSQL
